@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">en kicsi naplom</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_shopping_item">New Diary Chapter</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="image">Image link</string>
+    <string name="text">Text</string>
+    <string name="zoom_chapter">Zoom chapter</string>
+    <string-array name="images_items">
+        <item>Birman cat</item>
+        <item>Woman yelling at cat</item>
+        <item>Fat cat</item>
+        <item>Kitty</item>
+        <item>Catface</item>
+        <item>Cat in the garden</item>
+        <item>Grumpy Cat</item>
+    </string-array>
+</resources>
